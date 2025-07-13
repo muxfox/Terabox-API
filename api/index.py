@@ -44,12 +44,12 @@ logger = logging.getLogger(__name__)
 # TESTED COOKIES (Updated 2024-06-23)
 COOKIES = {
     'ndut_fmt': '17DA9215DF25E3D61B321EA8CF746027C630EFFDD1BA379FC422816F7EEA55A7',
-    'ndus': 'Yv8rChpteHui6y3ny7iNRYP7wNQa-vmu6Cl8ciQP',
+    'ndus': 'Y40khCMteHui8ylqBGkjtMh0Sl_bZ2ldXJVG9Is-',
     '__bid_n': '196ce76f980a5dfe624207',
     '__stripe_mid': '148f0bd1-59b1-4d4d-8034-6275095fc06f99e0e6',
     '__stripe_sid': '7b425795-b445-47da-b9db-5f12ec8c67bf085e26',
-    'browserid': 'veWFJBJ9hgVgY0eI9S7yzv66aE28f3als3qUXadSjEuICKF1WWBh4inG3KAWJsAYMkAFpH2FuNUum87q',
-    'csrfToken': 'wlv_WNcWCjBtbNQDrHSnut2h',
+    'browserid': 'Gvi3NUpFutA9vp70SDD6w04XiwVm4kh6vsmtv-NvQk0RN3r5GZ-iZoWgBTo=',
+    'csrfToken': 'iGh-Yo7ewy85F3hdhN_hnLIR',
     'lang': 'en',
     'PANWEB': '1',
     'ab_sr': '1.0.1_NjA1ZWE3ODRiYjJiYjZkYjQzYjU4NmZkZGVmOWYxNDg4MjU3ZDZmMTg0Nzg4MWFlNzQzZDMxZWExNmNjYzliMGFlYjIyNWUzYzZiODQ1Nzg3NWM0MzIzNWNiYTlkYTRjZTc0ZTc5ODRkNzg4NDhiMTljOGRiY2I4MzY4ZmYyNTU5ZDE5NDczZmY4NjJhMDgyNjRkZDI2MGY5M2Q5YzIyMg=='
